@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="McMarket:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/McMarket_jar</output-path>
+    <root id="archive" name="McMarket.jar">
+      <element id="module-output" name="McMarket" />
+    </root>
+  </artifact>
+</component>
